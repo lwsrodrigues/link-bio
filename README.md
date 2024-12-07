@@ -1,0 +1,1 @@
+Desenvolvi um site pessoal moderno e interativo para destacar minhas habilidades em Front-End, utilizando HTML5 e CSS3 para criar um layout responsivo e atraente, com integração de fontes e ícones de bibliotecas como Font Awesome e Devicon. Implementei funcionalidades dinâmicas em JavaScript e widgets externos, como playlists do Spotify, para enriquecer a experiência do usuário. 
