@@ -1,4 +1,4 @@
-# 🚀 ** Mobile First - site ** 🌐
+# 🚀 **Meu Site Pessoal - Mobile First** 🌐
 
 Desenvolvi um **site pessoal moderno** e **interativo** com foco em **Mobile First**, utilizando **HTML5** e **CSS3** para criar um layout **responsivo** e otimizado para dispositivos móveis e desktops. A estrutura foi projetada para garantir uma experiência fluida e agradável, independentemente do tamanho da tela, priorizando o design para dispositivos móveis e escalando para tamanhos maiores conforme necessário.
 
